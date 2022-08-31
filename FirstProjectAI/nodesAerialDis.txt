@@ -1,0 +1,21 @@
+GoalCity City AerialDistance
+Aka Aka 0 Bethlehem 132 Dura 158 Haifa 15 Halhoul 150 Hebron 155 Jenin 56 Jericho 125 Jerusalem 130 Nablus 102 Nazareth 33 Qalqilya 82 Ramallah 111 Ramleh 113 Sabastia 74 Safad 40 Salfit 94 Tubas 73 Tulkarm 69 Yafa 98
+Bethlehem Aka 132 Bethlehem 0 Dura 32 Haifa 121 Halhoul 17 Hebron 22 Jenin 122 Jericho 29 Jerusalem 7 Nablus 77 Nazareth 107 Qalqilya 122 Ramallah 30 Ramleh 39 Sabastia 59 Safad 139 Salfit 38 Tubas 66 Tulkarm 111 Yafa 55
+Dura Aka 158 Bethlehem 32 Dura 0 Haifa 146 Halhoul 11 Hebron 7 Jenin 109 Jericho 57 Jerusalem 34 Nablus 63 Nazareth 135 Qalqilya 77 Ramallah 54 Ramleh 49 Sabastia 87 Safad 169 Salfit 66 Tubas 96 Tulkarm 89 Yafa 68
+Haifa Aka 15 Bethlehem 121 Dura 146 Haifa 0 Halhoul 138 Hebron 144 Jenin 49 Jericho 116 Jerusalem 119 Nablus 93 Nazareth 32 Qalqilya 69 Ramallah 101 Ramleh 100 Sabastia 63 Safad 50 Salfit 84 Tubas 66 Tulkarm 57 Yafa 84
+Halhoul Aka 150 Bethlehem 17 Dura 11 Haifa 138 Halhoul 0 Hebron 5 Jenin 100 Jericho 46 Jerusalem 24 Nablus 53 Nazareth 126 Qalqilya 69 Ramallah 44 Ramleh 45 Sabastia 78 Safad 159 Salfit 57 Tubas 86 Tulkarm 82 Yafa 63
+Hebron Aka 155 Bethlehem 22 Dura 7 Haifa 144 Halhoul 5 Hebron 0 Jenin 109 Jericho 70 Jerusalem 34 Nablus 101 Nazareth 131 Qalqilya 146 Ramallah 54 Ramleh 49 Sabastia 83 Safad 165 Salfit 62 Tubas 92 Tulkarm 134 Yafa 68
+Jenin Aka 56 Bethlehem 122 Dura 109 Haifa 49 Halhoul 100 Hebron 109 Jenin 0 Jericho 109 Jerusalem 112 Nablus 43 Nazareth 27 Qalqilya 63 Ramallah 93 Ramleh 72 Sabastia 23 Safad 60 Salfit 43 Tubas 17 Tulkarm 52 Yafa 64
+Jericho Aka 125 Bethlehem 29 Dura 57 Haifa 116 Halhoul 46 Hebron 70 Jenin 109 Jericho 0 Jerusalem 38 Nablus 44 Nazareth 95 Qalqilya 102 Ramallah 20 Ramleh 57 Sabastia 53 Safad 124 Salfit 37 Tubas 52 Tulkarm 99 Yafa 69
+Jerusalem Aka 130 Bethlehem 7 Dura 34 Haifa 119 Halhoul 24 Hebron 34 Jenin 112 Jericho 38 Jerusalem 0 Nablus 67 Nazareth 104 Qalqilya 105 Ramallah 21 Ramleh 38 Sabastia 56 Safad 136 Salfit 35 Tubas 63 Tulkarm 99 Yafa 54
+Nablus Aka 102 Bethlehem 77 Dura 63 Haifa 93 Halhoul 53 Hebron 101 Jenin 43 Jericho 44 Jerusalem 67 Nablus 0 Nazareth 75 Qalqilya 27 Ramallah 30 Ramleh 41 Sabastia 8 Safad 107 Salfit 16 Tubas 15 Tulkarm 29 Yafa 48
+Nazareth Aka 33 Bethlehem 107 Dura 135 Haifa 32 Halhoul 126 Hebron 131 Jenin 27 Jericho 95 Jerusalem 104 Nablus 75 Nazareth 0 Qalqilya 64 Ramallah 84 Ramleh 95 Sabastia 48 Safad 35 Salfit 69 Tubas 42 Tulkarm 50 Yafa 85
+Qalqilya Aka 82 Bethlehem 122 Dura 77 Haifa 69 Halhoul 69 Hebron 146 Jenin 63 Jericho 102 Jerusalem 105 Nablus 27 Nazareth 64 Qalqilya 0 Ramallah 49 Ramleh 31 Sabastia 23 Safad 99 Salfit 38 Tubas 40 Tulkarm 34 Yafa 22
+Ramallah Aka 111 Bethlehem 30 Dura 54 Haifa 101 Halhoul 44 Hebron 54 Jenin 93 Jericho 20 Jerusalem 21 Nablus 30 Nazareth 84 Qalqilya 49 Ramallah 0 Ramleh 39 Sabastia 37 Safad 116 Salfit 18 Tubas 43 Tulkarm 80 Yafa 49
+Ramleh Aka 113 Bethlehem 39 Dura 49 Haifa 100 Halhoul 45 Hebron 49 Jenin 72 Jericho 57 Jerusalem 38 Nablus 41 Nazareth 95 Qalqilya 31 Ramallah 39 Ramleh 0 Sabastia 50 Safad 130 Salfit 35 Tubas 64 Tulkarm 45 Yafa 19
+Sabastia Aka 74 Bethlehem 59 Dura 87 Haifa 63 Halhoul 78 Hebron 83 Jenin 23 Jericho 53 Jerusalem 56 Nablus 8 Nazareth 48 Qalqilya 23 Ramallah 37 Ramleh 50 Sabastia 0 Safad 82 Salfit 21 Tubas 17 Tulkarm 17 Yafa 45
+Safad Aka 40 Bethlehem 139 Dura 169 Haifa 50 Halhoul 159 Hebron 165 Jenin 60 Jericho 124 Jerusalem 136 Nablus 107 Nazareth 35 Qalqilya 99 Ramallah 116 Ramleh 130 Sabastia 82 Safad 0 Salfit 103 Tubas 73 Tulkarm 86 Yafa 120
+Salfit Aka 94 Bethlehem 38 Dura 66 Haifa 84 Halhoul 57 Hebron 62 Jenin 43 Jericho 37 Jerusalem 35 Nablus 16 Nazareth 69 Qalqilya 38 Ramallah 18 Ramleh 35 Sabastia 21 Safad 103 Salfit 0 Tubas 32 Tulkarm 29 Yafa 38
+Tubas Aka 73 Bethlehem 66 Dura 96 Haifa 66 Halhoul 86 Hebron 92 Jenin 17 Jericho 52 Jerusalem 63 Nablus 15 Nazareth 42 Qalqilya 40 Ramallah 43 Ramleh 64 Sabastia 17 Safad 73 Salfit 32 Tubas 0 Tulkarm 32 Yafa 61
+Tulkarm Aka 69 Bethlehem 111 Dura 89 Haifa 57 Halhoul 82 Hebron 134 Jenin 52 Jericho 99 Jerusalem 99 Nablus 29 Nazareth 50 Qalqilya 34 Ramallah 80 Ramleh 45 Sabastia 17 Safad 86 Salfit 29 Tubas 32 Tulkarm 0 Yafa 35
+Yafa Aka 98 Bethlehem 55 Dura 68 Haifa 84 Halhoul 63 Hebron 68 Jenin 64 Jericho 69 Jerusalem 54 Nablus 48 Nazareth 85 Qalqilya 22 Ramallah 49 Ramleh 19 Sabastia 45 Safad 120 Salfit 38 Tubas 61 Tulkarm 35 Yafa 0
